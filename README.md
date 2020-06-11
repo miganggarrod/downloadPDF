@@ -1,9 +1,12 @@
 ## list-view
 
 Complemento de SharePoint Online que permite la descarga de un elemento de una lista
- Librerias
+
+Librerias
+```bash
  npm install @pnp/sp --save
  npm install jspdf --save
+```
 
 ### Building the code
 
