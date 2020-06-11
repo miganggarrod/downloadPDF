@@ -1,6 +1,9 @@
 ## list-view
 
-This is where you include your WebPart documentation.
+Complemento de SharePoint Online que permite la descarga de un elemento de una lista
+ Librerias
+ npm install @pnp/sp --save
+ npm install jspdf --save
 
 ### Building the code
 
