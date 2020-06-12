@@ -48,9 +48,9 @@ export default class ListViewCommandSet extends BaseListViewCommandSet<IListView
       case 'COMMAND_1':
       this.GeneraPdf(event.selectedRows[0].getValueByName('ID'));
         break;
-      case 'COMMAND_2':
-        console.log(this.properties.sampleTextTwo);
-        break;
+      // case 'COMMAND_2':
+      //   console.log(this.properties.sampleTextTwo);
+      //   break;
       default:
         throw new Error('Unknown command');
     }
