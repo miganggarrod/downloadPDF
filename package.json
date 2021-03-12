@@ -19,7 +19,7 @@
     "@pnp/sp": "^2.0.6",
     "@types/es6-promise": "0.0.33",
     "@types/webpack-env": "1.13.1",
-    "jspdf": "^1.5.3"
+    "jspdf": "^2.3.1"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "1.10.0",
